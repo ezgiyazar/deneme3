@@ -1,5 +1,5 @@
 
 
 public class Deneme3{
-    public String mythougths = "ikinci kez commit";
+    public String mythougths = "üçüncü kez commit";
 }
